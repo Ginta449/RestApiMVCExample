@@ -1,0 +1,20 @@
+[
+	{
+		"Id": "1",
+		"Name": "Milkyway",
+		"ImageName": "milkyway1.jfif",
+		"ImageNameTwo": "milkyway2.jfif"
+	},
+	{
+		"Id": "2",
+		"Name": "Andromeda Galaxy",
+		"ImageName": "andromeda1.jfif",
+		"ImageNameTwo": "andromeda2.jfif"
+	},
+	{
+		"Id": "3",
+		"Name": "Antennae Galaxies",
+		"ImageName": "antennae1.jfif",
+		"ImageNameTwo": "antennae2.jfif"
+	}
+]
